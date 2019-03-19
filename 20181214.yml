@@ -1,0 +1,41 @@
+name: '20181214'
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - certifi=2018.8.24=py35_1
+  - cffi=1.11.5=py35h74b6da3_1
+  - cudatoolkit=9.0=1
+  - freetype=2.9.1=ha9979f8_1
+  - icc_rt=2019.0.0=h0cc432a_1
+  - intel-openmp=2019.1=144
+  - jpeg=9b=hb83a4c4_2
+  - libpng=1.6.36=h2a8f88b_0
+  - libtiff=4.0.10=hb898794_2
+  - mkl=2018.0.3=1
+  - mkl_fft=1.0.6=py35hdbbee80_0
+  - mkl_random=1.0.1=py35h77b88f5_1
+  - ninja=1.8.2=py35he980bc4_1
+  - numpy=1.15.2=py35ha559c80_0
+  - numpy-base=1.15.2=py35h8128ebf_0
+  - olefile=0.46=py35_0
+  - pillow=5.2.0=py35h08bbbbd_0
+  - pip=10.0.1=py35_0
+  - pycparser=2.19=py35_0
+  - python=3.5.6=he025d50_0
+  - setuptools=40.2.0=py35_0
+  - six=1.11.0=py35_1
+  - tk=8.6.8=hfa6e2cd_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wheel=0.31.1=py35_0
+  - wincertstore=0.2=py35hfebbdb8_0
+  - xz=5.2.4=h2fa13f4_4
+  - zlib=1.2.11=h62dcd97_3
+  - zstd=1.3.7=h508b16e_0
+  - pytorch=1.0.1=py3.5_cuda90_cudnn7_1
+  - torchvision=0.2.2=py_3
+  - pip:
+    - torch==1.0.1
+prefix: C:\Users\Ripon Kumar Saha\Miniconda3\envs\20181214
